@@ -17,7 +17,7 @@ command line tool and Claude Code skill.
 
 **Smaller things**
 
-- [symmetric-prime-pairs](https://github.com/Emirhan-1111/symmetric-prime-pairs) — every even number as the most balanced sum of two primes (Goldbach pairs)
+- [goldbach-symmetric-pairs](https://github.com/Emirhan-1111/goldbach-symmetric-pairs) — even numbers as sums of two primes symmetric around their half: an experimental look at Goldbach's conjecture
 - [prime-check](https://github.com/Emirhan-1111/prime-check) — primality test that explains itself with the prime factorization
 
 **Tools I work with:** Python · build123d / OpenCascade · CAD (STEP, DXF) · matplotlib · Git
